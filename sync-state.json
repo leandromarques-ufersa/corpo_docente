@@ -1,18 +1,25 @@
 {
-  "checked_at": "2026-10-04T04:33:04+00:00",
-  "pending_removals": {},
+  "checked_at": "2026-10-11T03:05:03+00:00",
+  "pending_removals": {
+    "DCH:2025799": "2026-10-11T03:05:03+00:00"
+  },
   "counts": {
     "DENGE": 44,
-    "DCETI": 39,
+    "DCETI": 40,
     "DCH": 24
   },
   "last_change": {
-    "at": "2026-09-20T03:03:12+00:00",
+    "at": "2026-10-11T03:05:03+00:00",
     "added": [
       {
+        "department": "DCETI",
+        "id": "3558576",
+        "name": "RAFAEL LOPES DE ANDRADE GOMES"
+      },
+      {
         "department": "DCH",
-        "id": "1061680",
-        "name": "BRUNO LAYSON FERREIRA LEAO"
+        "id": "3558002",
+        "name": "VICTOR RAFAEL DO NASCIMENTO MENDES"
       }
     ],
     "removed": []
