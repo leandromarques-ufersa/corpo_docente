@@ -1,27 +1,20 @@
 {
-  "checked_at": "2026-10-11T03:05:03+00:00",
-  "pending_removals": {
-    "DCH:2025799": "2026-10-11T03:05:03+00:00"
-  },
+  "checked_at": "2026-10-18T07:30:48+00:00",
+  "pending_removals": {},
   "counts": {
     "DENGE": 44,
     "DCETI": 40,
     "DCH": 24
   },
   "last_change": {
-    "at": "2026-10-11T03:05:03+00:00",
-    "added": [
-      {
-        "department": "DCETI",
-        "id": "3558576",
-        "name": "RAFAEL LOPES DE ANDRADE GOMES"
-      },
+    "at": "2026-10-18T07:30:48+00:00",
+    "added": [],
+    "removed": [
       {
         "department": "DCH",
-        "id": "3558002",
-        "name": "VICTOR RAFAEL DO NASCIMENTO MENDES"
+        "id": "2025799",
+        "name": "Melissa Rafaela Costa Pimenta"
       }
-    ],
-    "removed": []
+    ]
   }
 }
