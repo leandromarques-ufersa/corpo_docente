@@ -1,9 +1,12 @@
 {
-  "checked_at": "2026-10-25T07:54:31+00:00",
-  "pending_removals": {},
+  "checked_at": "2026-11-01T09:52:40+00:00",
+  "pending_removals": {
+    "DENGE:1246564": "2026-11-01T09:52:40+00:00",
+    "DCETI:1998735": "2026-11-01T09:52:40+00:00"
+  },
   "counts": {
-    "DENGE": 44,
-    "DCETI": 40,
+    "DENGE": 43,
+    "DCETI": 39,
     "DCH": 24
   },
   "last_change": {
