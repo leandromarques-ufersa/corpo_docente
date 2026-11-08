@@ -1,22 +1,24 @@
 {
-  "checked_at": "2026-11-01T09:52:40+00:00",
-  "pending_removals": {
-    "DENGE:1246564": "2026-11-01T09:52:40+00:00",
-    "DCETI:1998735": "2026-11-01T09:52:40+00:00"
-  },
+  "checked_at": "2026-11-08T09:40:43+00:00",
+  "pending_removals": {},
   "counts": {
     "DENGE": 43,
     "DCETI": 39,
     "DCH": 24
   },
   "last_change": {
-    "at": "2026-10-18T07:30:48+00:00",
+    "at": "2026-11-08T09:40:43+00:00",
     "added": [],
     "removed": [
       {
-        "department": "DCH",
-        "id": "2025799",
-        "name": "Melissa Rafaela Costa Pimenta"
+        "department": "DENGE",
+        "id": "1246564",
+        "name": "Ellen Mirley Medeiros Torres"
+      },
+      {
+        "department": "DCETI",
+        "id": "1998735",
+        "name": "Renata Rodrigues da Hora"
       }
     ]
   }
